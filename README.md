@@ -1,4 +1,4 @@
-# Ejercicio 01 de React
+# Ejercicio 02 de React
 
 ##
 Hello world - Dificultad:  🟢
