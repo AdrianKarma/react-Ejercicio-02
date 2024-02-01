@@ -1,7 +1,8 @@
 # Ejercicio 02 de React
 
 Hello world - Dificultad:  🟢
-- Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
+- Modificar el componente anterior y enviar mediante props el valor “My friend” de manera que el mensaje quede de la siguiente forma:
+
 
 ![tp02](https://github.com/AdrianKarma/react-Ejercicio-02/assets/20958616/6b42fc01-862a-43dd-8a49-6b2e54a2bf76)
 
