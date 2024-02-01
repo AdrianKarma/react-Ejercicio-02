@@ -1,8 +1,18 @@
-# React + Vite
+# Ejercicio 02 de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello world - Dificultad:  🟢
+- Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
-Currently, two official plugins are available:
+![tp02](https://github.com/AdrianKarma/react-Ejercicio-02/assets/20958616/6b42fc01-862a-43dd-8a49-6b2e54a2bf76)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>[!NOTE]
+Modo de uso
+Lineas para clonar y correr el proyecto:
+
+git clone 
+npm install
+npm run dev
+
+ >[!IMPORTANT]
+Link Netlify:
+https://react-tp-02-adrian-chanampa.netlify.app/
